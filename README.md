@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hi!+I'm+Jeykel%F0%9F%91%8B;Software+Developer;Back-End+Engineer;Problem+Solver" alt="Headline" />
     </div>
     <div align=center>
-        <a href="www.linkedin.com/in/jeykelmedrano"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/jeykelmedrano"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
     </div>
     <div align=left>
         <br>
